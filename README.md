@@ -1,12 +1,12 @@
 <div align="center">
 
-<img alt="Header GIF" src="https://raw.githubusercontent.com/gclima-me/gclima-me/main/assets/scrunchybean.gif" />
+<img width="850" alt="Header GIF" src="https://raw.githubusercontent.com/gclima-me/gclima-me/main/assets/scrunchybean.gif" />
 
 # Guilherme Caetano Lima
 
 **`Software Engineering Student | IT Technician for the Web | Software Developer`**
 
-Sou estudante de **Engenharia de Software** na **UMC** e **técnico em informática para a internet** pela **ETEC de Poá**. Sou movido pela curiosidade técnica e pelo desafio de transformar lógica em aplicações funcionais. Atualmente, estou dedicado ao aprimoramento das minhas bases em desenvolvimento web e lógica de programação, buscando integrar o conhecimento acadêmico com a criação de interfaces modernas e eficientes. Meu foco está em evoluir na construção de sites e softwares e em boas práticas de código.
+Sou estudante de **Engenharia de Software** na **UMC** e **Técnico em Informática para a Internet** pela **ETEC de Poá**. Sou movido pela curiosidade técnica e pelo desafio de transformar lógica em aplicações funcionais. Atualmente, estou dedicado ao aprimoramento das minhas bases em desenvolvimento web e lógica de programação, buscando integrar o conhecimento acadêmico com a criação de interfaces modernas e eficientes. Meu foco está em evoluir na construção de sites e softwares e em boas práticas de código.
 
 I'm a **Software Engineering** student at **UMC** and an **IT Technician for the Web** graduated from **ETEC Poá**. Driven by technical curiosity and the challenge of turning logic into functional applications. Currently, I'm dedicated to strengthening my foundations in web development and programming logic, seeking to integrate academic knowledge with the creation of modern and efficient interfaces. My focus lies in evolving my web and software development skills and following best practices.
 
@@ -34,8 +34,8 @@ I'm a **Software Engineering** student at **UMC** and an **IT Technician for the
 
 <br>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gclima-me&layout=compact&langs_count=7&theme=tokyonight&title_color=59c678&text_color=ffffff&icon_color=59c678&bg_color=0d1117&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gclima-me&show_icons=true&theme=tokyonight&title_color=59c678&text_color=ffffff&icon_color=59c678&bg_color=0d1117&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gclima-me&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=70a5fd&text_color=7aa2f7&icon_color=bf91f3&hide_border=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=gclima-me&custom_title=Stats&show_icons=true&hide_rank=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=70a5fd&text_color=7aa2f7&icon_color=bf91f3&hide_border=true" />
 
 <br>
 <br>
