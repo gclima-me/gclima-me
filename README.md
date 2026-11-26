@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="850" alt="Header GIF" src="https://raw.githubusercontent.com/gclima-me/gclima-me/main/assets/scrunchybean.gif" />
+<img width="700" alt="Header GIF" src="https://raw.githubusercontent.com/gclima-me/gclima-me/main/assets/scrunchybean.gif" />
 
 # Guilherme Caetano Lima
 
